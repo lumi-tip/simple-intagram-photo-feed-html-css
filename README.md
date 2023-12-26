@@ -2,7 +2,7 @@
 
 This is my first try of imitating an instagram feed with only html and css (not responsive)
 
-### Objective
+## Objective
 
 Make a version of an intagram feed just using HTML and CSS
 
